@@ -1,0 +1,28 @@
+{
+  "name": "example",
+  "version": "1.0.0",
+  "description": "example",
+  "main": "app.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "example"
+  },
+  "keywords": [
+    "example"
+  ],
+  "author": "example",
+  "license": "ISC",
+  "devDependencies": {
+    "babelify": "^7.3.0",
+    "browserify": "^14.4.0",
+    "gulp": "^3.9.1",
+    "gulp-pug": "^3.3.0",
+    "gulp-sass": "^3.1.0",
+    "gulp-uglify": "^3.0.0",
+    "vinyl-buffer": "^1.0.0",
+    "vinyl-source-stream": "^1.1.0"
+  }
+}
